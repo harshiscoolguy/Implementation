@@ -1,0 +1,9 @@
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\bin\Release\DeveloperTestRunner.exe
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\bin\Release\DeveloperTestRunner.pdb
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\bin\Release\DeveloperTest.dll
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\bin\Release\DeveloperTestTypes.dll
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\bin\Release\DeveloperTestTypes.pdb
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\bin\Release\DeveloperTest.pdb
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\obj\x86\Release\DeveloperTestRunner.exe
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\obj\x86\Release\DeveloperTestRunner.pdb
