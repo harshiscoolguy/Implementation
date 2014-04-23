@@ -7,3 +7,5 @@ D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\bin\Release\Developer
 D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\obj\x86\Release\ResolveAssemblyReference.cache
 D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\obj\x86\Release\DeveloperTestRunner.exe
 D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestRunner\obj\x86\Release\DeveloperTestRunner.pdb
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\obj\x86\Release\DeveloperTestRunner.exe
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\obj\x86\Release\DeveloperTestRunner.pdb

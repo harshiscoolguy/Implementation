@@ -1,0 +1,9 @@
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\bin\Debug\DeveloperTestRunner.exe
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\bin\Debug\DeveloperTestRunner.pdb
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\bin\Debug\DeveloperTest.dll
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\bin\Debug\DeveloperTestTypes.dll
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\bin\Debug\DeveloperTestTypes.pdb
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\bin\Debug\DeveloperTest.pdb
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\obj\x86\Debug\DeveloperTestRunner.exe
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestRunner\obj\x86\Debug\DeveloperTestRunner.pdb

@@ -1,0 +1,5 @@
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestTypes\bin\Debug\DeveloperTestTypes.dll
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestTypes\bin\Debug\DeveloperTestTypes.pdb
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestTypes\obj\Debug\DeveloperTestTypes.dll
+C:\Users\hpate14\Documents\DeveloperTest-Dev\DeveloperTestTypes\obj\Debug\DeveloperTestTypes.pdb
