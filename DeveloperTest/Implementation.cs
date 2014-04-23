@@ -217,23 +217,24 @@ namespace DeveloperTest
         {
             TreeNode rootNode = null;
 
-            var dict = inputs.ToDictionary( // Building a dictionary to store each input and its corresponding node. This way we can create a Node and add it as a child of the given parent node.
+            var inputDictionary = inputs.ToDictionary( // Building a dictionary to store each input and its corresponding node. This way we can create a Node and add it as a child of the given parent node.
                 input => input.Id,
-                input => new { 
-                    Input = input, 
-                    Node = new TreeNode(input.Id) 
+                input => new
+                {
+                    Input = input,
+                    newNode = new TreeNode(input.Id)
                 });
 
-            foreach (var value in dict.Values)  // Iterating through the nodes so that we can add proper children for parents.
+            foreach (var value in inputDictionary.Values)  // Iterating through the nodes so that we can add proper children for parents.
             {
                 var input = value.Input;
                 if (input.ParentId != null)    //If the ParentId is null, add it as root. If not, add it as a child.
                 {
-                    dict[(int)input.ParentId].Node.AddChild(value.Node);   //Get the parentID for the input. Then get the node for the parentID and the add the child node to that parentNode.
+                    inputDictionary[(int)input.ParentId].newNode.AddChild(value.newNode);   //Get the parentID for the input. Then get the node for the parentID and the add the child node to that parentNode.
                 }
                 else
                 {
-                    rootNode = value.Node; //If it does not have parent, its a root node.
+                    rootNode = value.newNode; //If it does not have parent, its a root node.
                 }
             }
             return rootNode;
