@@ -1,0 +1,5 @@
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestTypes\bin\Release\DeveloperTestTypes.dll
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestTypes\bin\Release\DeveloperTestTypes.pdb
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestTypes\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestTypes\obj\Release\DeveloperTestTypes.dll
+D:\Users\Harsh\Downloads\DeveloperTest\DeveloperTestTypes\obj\Release\DeveloperTestTypes.pdb
